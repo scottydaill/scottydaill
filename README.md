@@ -1,7 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Scott, and I'm a CSUMB trained computer scientist in all things Python & Data Science!
+
+
 <!--
 **scottydaill/scottydaill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
